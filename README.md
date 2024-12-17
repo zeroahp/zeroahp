@@ -7,7 +7,7 @@ I'm Pham Thi Huynh Anh, a passionate software developer based in Can Tho city. I
 ---
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql,react,redux,redis,js,java,html,css,sass,bootstrap,materialui,vue,git,docker,selenium,postman,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql,react,redux,js,java,html,css,sass,bootstrap,materialui,vue,git,docker,selenium,postman,python)](https://skillicons.dev)
 
 ---
 
