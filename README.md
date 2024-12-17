@@ -9,7 +9,7 @@ I'm passionate about **Java backend development**, web technologies, and learnin
 
 ## 🛠️ Technologies & Tools
 ### Programming Languages 
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html)](https://skillicons.dev)
 
 ### Frameworks & Libraries 
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,react,redux,css,sass,bootstrap,materialui,vue,docker,postman)](https://skillicons.dev)
@@ -19,6 +19,7 @@ I'm passionate about **Java backend development**, web technologies, and learnin
 
 ### Security, Authentication & Authorization  
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 ### Other tools  
 [![My Skills](https://skillicons.dev/icons?i=git,selenium)](https://skillicons.dev)
