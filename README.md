@@ -1,8 +1,10 @@
 # Hi 👋, I'm Aliya
 
-## 👨‍💻 About Me:
+---
+
 I'm Pham Thi Huynh Anh, I'm a final-year Software Engineer at Can Tho University.  
 I'm passionate about **Java backend development**, web technologies, and learning new tools and frameworks to enhance my skills.
+
 ---
 
 ## 🛠️ Technologies & Tools
