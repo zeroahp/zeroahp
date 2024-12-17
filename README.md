@@ -1,13 +1,25 @@
 # Hi 👋, I'm Aliya
 
 ## 👨‍💻 About Me:
-I'm Pham Thi Huynh Anh, a passionate software developer based in Can Tho city. I love creating innovative solutions and exploring new technologies. Let's build something amazing together!
-
-📚 Currently learning language Java.  
+I'm Pham Thi Huynh Anh, I'm a final-year Software Engineer at Can Tho University.  
+I'm passionate about **Java backend development**, web technologies, and learning new tools and frameworks to enhance my skills.
 ---
 
-### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql,react,redux,js,java,html,css,sass,bootstrap,materialui,vue,git,docker,selenium,postman,python)](https://skillicons.dev)
+## 🛠️ Technologies & Tools
+### Programming Languages 
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,python)](https://skillicons.dev)
+
+### Frameworks & Libraries 
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,react,redux,css,sass,bootstrap,materialui,vue,docker,postman)](https://skillicons.dev)
+
+### Databases 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+### Security, Authentication & Authorization  
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+
+### Other tools  
+[![My Skills](https://skillicons.dev/icons?i=git,selenium)](https://skillicons.dev)
 
 ---
 
